@@ -1,5 +1,5 @@
 import pandas as pd
-from product import Product
+from src.product import Product
 
 class InventoryManager:
     """
@@ -52,3 +52,4 @@ class InventoryManager:
         self.df = self.df[self.df["product_id"] != product_id]
         self.save_inventory()
         print("Product deleted successfully.")
+
