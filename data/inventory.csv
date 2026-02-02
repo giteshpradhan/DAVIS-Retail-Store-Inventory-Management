@@ -1,0 +1,51 @@
+product_id,name,category,price,quantity
+101,Milk,Dairy,45,20
+102,Curd,Dairy,50,15
+103,Cheese,Dairy,120,8
+104,Butter,Dairy,95,12
+105,Yogurt,Dairy,40,18
+106,Bread,Bakery,30,5
+107,Bun,Bakery,20,25
+108,Cake,Bakery,250,4
+109,Cookies,Bakery,60,10
+110,Pav,Bakery,25,30
+111,Rice,Grocery,60,40
+112,Wheat Flour,Grocery,55,35
+113,Sugar,Grocery,45,28
+114,Salt,Grocery,20,50
+115,Oil,Grocery,140,22
+116,Tea Powder,Grocery,180,12
+117,Coffee,Grocery,220,9
+118,Soap,Personal Care,30,40
+119,Shampoo,Personal Care,180,14
+120,Toothpaste,Personal Care,95,18
+121,Toothbrush,Personal Care,40,25
+122,Face Wash,Personal Care,120,10
+123,Handwash,Personal Care,85,20
+124,Detergent,Home Care,150,16
+125,Floor Cleaner,Home Care,130,14
+126,Dishwash Liquid,Home Care,90,22
+127,Phenyl,Home Care,110,9
+128,Broom,Home Care,75,30
+129,Notebook,Stationery,50,45
+130,Pen,Stationery,10,200
+131,Pencil,Stationery,5,180
+132,Eraser,Stationery,5,150
+133,Marker,Stationery,25,60
+134,Water Bottle,Kitchen,250,12
+135,Lunch Box,Kitchen,300,10
+136,Plate Set,Kitchen,450,6
+137,Spoon Set,Kitchen,120,14
+138,Knife,Kitchen,180,8
+139,Soft Drink,Beverages,40,50
+140,Juice,Beverages,60,35
+141,Energy Drink,Beverages,120,18
+142,Mineral Water,Beverages,20,100
+143,Ice Cream,Frozen,90,15
+144,Frozen Peas,Frozen,110,10
+145,Frozen Corn,Frozen,105,12
+146,Chicken Nuggets,Frozen,220,7
+147,Fish Fingers,Frozen,250,6
+148,Chips,Snacks,30,60
+149,Chocolate,Snacks,50,45
+150,Biscuits,Snacks,25,70
