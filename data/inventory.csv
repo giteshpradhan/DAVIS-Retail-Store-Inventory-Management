@@ -22,30 +22,7 @@ product_id,name,category,price,quantity
 121,Toothbrush,Personal Care,40,25
 122,Face Wash,Personal Care,120,10
 123,Handwash,Personal Care,85,20
-124,Detergent,Home Care,150,16
-125,Floor Cleaner,Home Care,130,14
-126,Dishwash Liquid,Home Care,90,22
-127,Phenyl,Home Care,110,9
-128,Broom,Home Care,75,30
-129,Notebook,Stationery,50,45
-130,Pen,Stationery,10,200
-131,Pencil,Stationery,5,180
-132,Eraser,Stationery,5,150
-133,Marker,Stationery,25,60
-134,Water Bottle,Kitchen,250,12
-135,Lunch Box,Kitchen,300,10
-136,Plate Set,Kitchen,450,6
-137,Spoon Set,Kitchen,120,14
-138,Knife,Kitchen,180,8
-139,Soft Drink,Beverages,40,50
-140,Juice,Beverages,60,35
-141,Energy Drink,Beverages,120,18
-142,Mineral Water,Beverages,20,100
-143,Ice Cream,Frozen,90,15
-144,Frozen Peas,Frozen,110,10
-145,Frozen Corn,Frozen,105,12
-146,Chicken Nuggets,Frozen,220,7
-147,Fish Fingers,Frozen,250,6
 148,Chips,Snacks,30,60
 149,Chocolate,Snacks,50,45
 150,Biscuits,Snacks,25,70
+
